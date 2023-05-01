@@ -32,3 +32,7 @@ You can copy the table data to clipboard by selecting rows or columns and pressi
 
 ## Purpose
 The purpose of this script is to help webmasters and SEO specialists to track and analyze their backlinks from different domains. By using this script, they can easily see which domains are linking to their site and how many links they have from each domain. This can help them to improve their site’s ranking and authority in search engines.
+
+## Credits
+This script is also sponsored by [harbiforum.net](https://www.harbiforum.net/), a forum site where you can find interesting topics and discussions.
+

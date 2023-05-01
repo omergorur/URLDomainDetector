@@ -2,6 +2,8 @@
 
 URL Domain Detector is a PyQt6 application that detects the domain names of the URLs entered in a text area and displays them in a table. It also has a function to reset the text area and the table when the clear button is pressed.
 
+![alt url domain detector](https://github.com/omergorur/URLDomainDetector/blob/main/screenshot.png?raw=true)
+
 ## Installation
 
 To run this script, you need to have Python 3 and PyQt6 installed on your system. You can install PyQt6 using pip:
